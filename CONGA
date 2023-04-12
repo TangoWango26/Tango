@@ -1,0 +1,202 @@
+<html>
+    <head>
+       <style>
+        body{
+            margin: 0;
+        }
+        .header{
+            background-color: #c5941a;
+
+            color: rgb(0, 0, 0);
+
+            font-family: cursive;
+
+            display: flex;
+
+            justify-content: space-between;
+
+            align-items: center;
+
+            padding:10px 250px ;
+
+        }
+        .header_button{
+         color: #d2790b;
+         padding: 15px 30px;
+         transition-duration: 0.3s;
+        }
+        .header_button:hover{
+            transform: scale(1.3);
+        }
+        .build{
+            display: flex;
+
+            justify-content: space-between;
+
+            align-items: center;
+
+            padding: 250px 190px;
+        }
+         .Vegenchocolate.jpg{
+            color: #ffa742;
+            font-family: Candara;
+            font-size: 60px;
+            transition-duration: 0.5s;
+        }
+        .Kokalate.jpg{
+            letter-spacing: 12px;
+        }
+        .pc_build_img{
+            width: 40%;
+            border-radius: 4%;
+            transition-duration: 0.7s;
+        }
+        .pc_build_img:hover{
+            transform: scale(1.1);
+        }
+        .build2{
+            background-color: #c3950a;
+            padding: 100px 100px;
+            margin: 0;
+        }
+        .build2_header{
+            align-items: center;
+
+            text-align: center;
+
+            color: rgb(0, 0, 0);
+
+            font-family: Candara;
+
+            font-size: 50px;
+
+            transition-duration: 0.3s;
+
+            background-color: #92670c;
+
+            padding-top: 80px;
+
+            margin: 0;
+        }
+        .build2_header:hover{
+            letter-spacing: 4px;
+        }
+        .Strawberrychocolate.jpeg{
+            align-items: center;
+
+            display: flex;
+
+
+            justify-content: space-between;
+
+
+            padding: 10px 340px;
+
+
+            transition-duration: 0.2s;
+
+
+            border-radius: 5%;
+        }
+        .build2_img:hover{
+            transform: scale(0.95);
+        }
+        .build2_img2{
+            align-items: center;
+
+            display: flex;
+
+            justify-content: space-between;
+
+
+            padding: 10px 340px;
+
+
+            transition-duration: 0.2s;
+            border-radius: 5%;
+
+
+        }
+        .build2_img2:hover{
+
+
+            transform: scale(0.35);
+        }
+        .DevilCake.jpg{
+            align-items: center;
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 340px;
+            transition-duration: 0.5s;
+            border-radius: 5%;
+        }
+        .build2_img3:hover{
+            transform: scale(0.95);
+        }
+        .Cake{
+            background-color: rgb(0, 0, 0);
+
+            font-family: Candara;
+
+            font-size: 20px;
+
+            transition-duration: 0.3s;
+            justify-content: space-between;
+
+            display: flex;
+
+            padding: 200px 300px;
+            align-items: center;
+
+            color: #ff9d42;
+        }
+        .moist-chocolate-cupcakes-5.jpg{
+            transition: 0.5s;
+            border-radius: 5%;
+        }
+        .Strawberrychocolate.jpeg{
+            transform: scale(1.1);
+        }
+        .Vegenchocolate.jpg{
+            transition: 0.10s;
+        }
+        .chocolateWhiteDark-454384771-770x533-1-300x200 (1).webp{
+            letter-spacing: 5px;
+        }
+        h2{
+            background-color: #000000;
+            color: rgb(209, 152, 36);
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+            font-family: Segoe UI;
+        }
+       </style>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Conceptx Chocolate Shop</h1>
+            <a href="https://www.youtube.com/">
+            <button class="header_button">Order</button>
+            </a>
+        </div>
+        <div class="build">
+            <h1 class="web_zuerich_lindt_home_of_chocholate_1280x960_32163.jpg">BEAUTIFUL <br>CHOCOLATE</h1>
+            <img class="Vegen chocolate.jpg" src="Vegen chocolate.jpg">
+        </div>
+            <h1 class="build2_header">50% Promotion!</h1>
+        <div class="build2">
+                <div class="build2_img"> <img width="300px" src="chocolateWhiteDark-454384771-770x533-1-300x200 (1).webp" alt="">
+                <img width="300px" src="Kokalate.jpg" alt=""></div>
+                <div class="build2_img2"><img width="300px" src="Strawberry chocolate.jpeg" alt="">
+                <img width="300px" src="RTX 4090.jpg" alt=""></div>
+             <div class="build2_img3"><img width="300px" src="Devil Cake.jpg" alt="">
+                <img width="300px" src="moist-chocolate-cupcakes-5.jpg" alt=""></div>
+            </div>
+        <div class="Cake">
+            <img width="500px" class="" src="" alt="">
+            <h1 class=".">We Also Have <br> Cake Chocolate Pudding! </h1>
+        </div>
+        <h2>Thank you for visiting/buying here :3</h2>
+    </body>
+</html>
